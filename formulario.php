@@ -1,3 +1,3 @@
 <?php
-echo 'Formulario'
+echo 'Formulario';
 ?>
